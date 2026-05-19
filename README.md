@@ -267,7 +267,7 @@ void func_TaskA(void *argument) {
 
 ### Clone the Repo
 ```bash
-git clone https://github.com/jitlesh2006/RTOS-ON-STM32F446RE.git
+git clone https://github.com/jitlesh/RTOS-ON-STM32F446RE.git
 ```
 
 ### Opening a Project in STM32CubeIDE
@@ -299,5 +299,5 @@ MIT License — free to use, modify, and share.
 
 ## 🙋 Author
 
-**Kavya Batheja**  
-GitHub: [@jitlesh2006](https://github.com/jitlesh2006)
+**Jitlesh**  
+GitHub: [@jitlesh](https://github.com/jitlesh)
